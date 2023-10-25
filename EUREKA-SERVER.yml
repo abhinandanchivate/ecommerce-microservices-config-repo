@@ -8,4 +8,4 @@ eureka:
     register-with-eureka: false
 spring:
   application:
-    name: EUREKA-SERVER
+    name: discovery-server
